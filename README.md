@@ -36,7 +36,6 @@ Hosting/Deployment: GitHub Pages, Netlify
 ---
 
 Live Demo 👉 1.https://adityasinnghh.github.io/BlackWolves/
-
           👉 2.https://blackwolvescorporation.netlify.app/
 
 

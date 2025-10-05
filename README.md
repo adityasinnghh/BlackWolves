@@ -36,21 +36,11 @@ Hosting/Deployment: GitHub Pages, Netlify
 ---
 
 Live Demo 👉 1.https://adityasinnghh.github.io/BlackWolves/
+
           👉 2.https://blackwolvescorporation.netlify.app/
 
 
----
 
-🔧 Installation & Setup
-
-Clone the repository:
-
-git clone https://github.com/yourusername/blackwolves-corporation-website.git
-
-Open index.html in your browser, or run a local server:
-
-# Using Python
-python -m http.server 8000
 
 
 ---

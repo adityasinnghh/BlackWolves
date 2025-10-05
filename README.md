@@ -1,5 +1,3 @@
-Got it 👍 Here’s a professional yet clear README.md draft for your GitHub repository about the Blackwolves Corporation website:
-
 
 ---
 
